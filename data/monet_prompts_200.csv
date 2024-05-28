@@ -1,0 +1,202 @@
+,prompt,evaluation_seed,case_number
+0,"A tranquil pond with water lilies, painted with delicate brushstrokes and a soft color palette reminiscent of Monet's impressionist style.", 2475, 0
+1,"A garden scene with vibrant flowers and dappled sunlight, captured in Monet's signature style with loose brushwork and an emphasis on light and color.", 1893, 1
+2,"A coastal landscape featuring cliffs and crashing waves, depicted with the atmospheric effects and shimmering light characteristic of Monet's seascapes.", 3127, 2
+3,"A haystack in a field at sunset, rendered with the shifting hues of light and shadow that were a hallmark of Monet's series paintings.", 2156, 3
+4,"A bustling city street on a rainy day, portrayed with blurred forms and reflections reminiscent of Monet's exploration of urban scenes.", 2874, 4
+5,"A portrait of a woman in a garden, bathed in dappled sunlight and painted with the ethereal quality characteristic of Monet's outdoor compositions.", 1968, 5
+6,"A bridge over a pond covered in water lilies, depicted with the softness of light and reflection that defined Monet's later works.", 1783, 6
+7,"A village scene with cottages and gardens, painted with vibrant colors and loose brushstrokes reminiscent of Monet's depictions of rural life.", 2256, 7
+8,"A still life of flowers in a vase, captured with the fleeting effects of light and color that were central to Monet's approach to painting.", 2047, 8
+9,"A riverside scene with boats and reflections on the water, portrayed with the shimmering quality of light and color typical of Monet's river landscapes.", 3198, 9
+10,"A garden path surrounded by blooming flowers, painted with the vibrant hues and dappled light characteristic of Monet's garden scenes.", 2637, 10
+11,"A coastal village bathed in sunlight, depicted with the atmospheric effects and vibrant colors that defined Monet's coastal landscapes.", 2965, 11
+12,"A portrait of a woman in a garden, rendered with the softness of light and color that characterized Monet's impressionist portraits.", 1847, 12
+13,"A bridge over a river in the morning mist, painted with the ethereal quality of light and atmosphere typical of Monet's atmospheric landscapes.", 2375, 13
+14,"A field of poppies swaying in the breeze, portrayed with the vibrant colors and dynamic brushwork characteristic of Monet's floral paintings.", 2185, 14
+15,"A pond with water lilies at sunset, depicted with the rich hues and dramatic lighting that were central to Monet's exploration of light and color.", 3412, 15
+16,"A garden scene with roses in bloom, painted with soft brushstrokes and a warm color palette reminiscent of Monet's floral studies.", 1956, 16
+17,"A cityscape with bustling streets and towering buildings, portrayed with the atmospheric effects and dynamic brushwork characteristic of Monet's urban scenes.", 2784, 17
+18,"A portrait of a woman in a garden, bathed in soft sunlight and painted with the luminous quality characteristic of Monet's outdoor compositions.", 2098, 18
+19,"A bridge over a pond covered in water lilies, depicted with the tranquility of light and reflection that defined Monet's later works.", 1673, 19
+20,"A countryside landscape with rolling hills and winding paths, painted with the vibrant colors and loose brushwork characteristic of Monet's rural scenes.", 2421, 20
+21,"A still life of fruits and flowers on a table, captured with the vibrant colors and fleeting light effects typical of Monet's still life paintings.", 2237, 21
+22,"A coastal scene with sailboats on the water, depicted with the shimmering reflections and vibrant colors characteristic of Monet's maritime works.", 2985, 22
+23,"A portrait of a woman in a garden, surrounded by blooming flowers and bathed in the soft light that defined Monet's outdoor compositions.", 2146, 23
+24,"A bridge over a river in the misty morning, painted with the atmospheric effects and subtle color variations typical of Monet's landscape studies.", 2478, 24
+25,"A garden path lined with blooming flowers and trees, portrayed with the vibrant colors and dappled light characteristic of Monet's garden scenes.", 2714, 25
+26,"A cityscape at dusk, with lights reflecting on the water and buildings, captured with the atmospheric effects and dynamic brushwork of Monet's urban scenes.", 3029, 26
+27,"A portrait of a young girl in a sunlit garden, painted with the luminous quality of light and color that characterized Monet's impressionist portraits.", 2296, 27
+28,"A bridge over a pond covered in water lilies, depicted with the tranquility of light and reflection that defined Monet's later works.", 1673, 28
+29,"A countryside landscape with rolling hills and winding paths, painted with the vibrant colors and loose brushwork characteristic of Monet's rural scenes.", 2421, 29
+30,"A still life of fruits and flowers on a table, captured with the vibrant colors and fleeting light effects typical of Monet's still life paintings.", 2237, 30
+31,"A coastal scene with sailboats on the water, depicted with the shimmering reflections and vibrant colors characteristic of Monet's maritime works.", 2985, 31
+32,"A portrait of a woman in a garden, surrounded by blooming flowers and bathed in the soft light that defined Monet's outdoor compositions.", 2146, 32
+33,"A bridge over a river in the misty morning, painted with the atmospheric effects and subtle color variations typical of Monet's landscape studies.", 2478, 33
+34,"A garden path lined with blooming flowers and trees, portrayed with the vibrant colors and dappled light characteristic of Monet's garden scenes.", 2714, 34
+35,"A cityscape at dusk, with lights reflecting on the water and buildings, captured with the atmospheric effects and dynamic brushwork of Monet's urban scenes.", 3029, 35
+36,"A portrait of a young girl in a sunlit garden, painted with the luminous quality of light and color that characterized Monet's impressionist portraits.", 2296, 36
+37,"A bridge over a pond covered in water lilies, depicted with the tranquility of light and reflection that defined Monet's later works.", 1673, 37
+38,"A countryside landscape with rolling hills and winding paths, painted with the vibrant colors and loose brushwork characteristic of Monet's rural scenes.", 2421, 38
+39,"A still life of fruits and flowers on a table, captured with the vibrant colors and fleeting light effects typical of Monet's still life paintings.", 2237, 39
+40,"A coastal scene with sailboats on the water, depicted with the shimmering reflections and vibrant colors characteristic of Monet's maritime works.", 2985, 40
+41,"A portrait of a woman in a garden, surrounded by blooming flowers and bathed in the soft light that defined Monet's outdoor compositions.", 2146, 41
+42,"A bridge over a river in the misty morning, painted with the atmospheric effects and subtle color variations typical of Monet's landscape studies.", 2478, 42
+43,"A garden path lined with blooming flowers and trees, portrayed with the vibrant colors and dappled light characteristic of Monet's garden scenes.", 2714, 43
+44,"A cityscape at dusk, with lights reflecting on the water and buildings, captured with the atmospheric effects and dynamic brushwork of Monet's urban scenes.", 3029, 44
+45,"A portrait of a young girl in a sunlit garden, painted with the luminous quality of light and color that characterized Monet's impressionist portraits.", 2296, 45
+46,"A bridge over a pond covered in water lilies, depicted with the tranquility of light and reflection that defined Monet's later works.", 1673, 46
+47,"A countryside landscape with rolling hills and winding paths, painted with the vibrant colors and loose brushwork characteristic of Monet's rural scenes.", 2421, 47
+48,"A still life of fruits and flowers on a table, captured with the vibrant colors and fleeting light effects typical of Monet's still life paintings.", 2237, 48
+49,"A coastal scene with sailboats on the water, depicted with the shimmering reflections and vibrant colors characteristic of Monet's maritime works.", 2985, 49
+50,"A garden scene with blooming roses and a small footbridge, painted with the softness of light and color characteristic of Monet's garden landscapes.", 2834, 50
+51,"A pond covered in water lilies, depicted with the shimmering reflections and vibrant colors that defined Monet's later series paintings.", 2167, 51
+52,"A portrait of a woman in a sun-dappled garden, painted with the luminous quality of light and color that characterized Monet's outdoor compositions.", 1956, 52
+53,"A rustic wooden bridge over a babbling brook, rendered with the tranquility of light and reflection characteristic of Monet's rural scenes.", 2378, 53
+54,"A coastal scene with cliffs and crashing waves, portrayed with the dynamic brushwork and atmospheric effects typical of Monet's maritime works.", 3296, 54
+55,"A bouquet of flowers in a vase, captured with the vibrant colors and delicate brushstrokes that were central to Monet's floral still lifes.", 2085, 55
+56,"A peaceful garden scene with a winding path and colorful blooms, painted with the vibrant hues and dappled light characteristic of Monet's outdoor compositions.", 2741, 56
+57,"A bridge over a tranquil pond surrounded by water lilies, depicted with the softness of light and reflection that defined Monet's later works.", 1839, 57
+58,"A countryside landscape with rolling hills and a winding river, painted with the vibrant colors and loose brushwork characteristic of Monet's rural scenes.", 2563, 58
+59,"A still life of fruits and vegetables on a table, captured with the vibrant colors and fleeting light effects typical of Monet's still life paintings.", 2314, 59
+60,"A coastal scene with sailboats gliding on the water, depicted with the shimmering reflections and vibrant colors characteristic of Monet's maritime works.", 3112, 60
+61,"A portrait of a woman in a garden, surrounded by blooming flowers and bathed in the soft light that defined Monet's outdoor compositions.", 2275, 61
+62,"A bridge over a river in the misty morning, painted with the atmospheric effects and subtle color variations typical of Monet's landscape studies.", 2527, 62
+63,"A garden path lined with blooming flowers and trees, portrayed with the vibrant colors and dappled light characteristic of Monet's garden scenes.", 2689, 63
+64,"A cityscape at dusk, with lights reflecting on the water and buildings, captured with the atmospheric effects and dynamic brushwork of Monet's urban scenes.", 2976, 64
+65,"A portrait of a young girl in a sunlit garden, painted with the luminous quality of light and color that characterized Monet's impressionist portraits.", 2334, 65
+66,"A bridge over a pond covered in water lilies, depicted with the tranquility of light and reflection that defined Monet's later works.", 1758, 66
+67,"A countryside landscape with rolling hills and winding paths, painted with the vibrant colors and loose brushwork characteristic of Monet's rural scenes.", 2467, 67
+68,"A still life of fruits and flowers on a table, captured with the vibrant colors and fleeting light effects typical of Monet's still life paintings.", 2183, 68
+69,"A coastal scene with sailboats on the water, depicted with the shimmering reflections and vibrant colors characteristic of Monet's maritime works.", 2992, 69
+70,"A portrait of a woman in a garden, surrounded by blooming flowers and bathed in the soft light that defined Monet's outdoor compositions.", 2145, 70
+71,"A bridge over a river in the misty morning, painted with the atmospheric effects and subtle color variations typical of Monet's landscape studies.", 2438, 71
+72,"A garden path lined with blooming flowers and trees, portrayed with the vibrant colors and dappled light characteristic of Monet's garden scenes.", 2775, 72
+73,"A cityscape at dusk, with lights reflecting on the water and buildings, captured with the atmospheric effects and dynamic brushwork of Monet's urban scenes.", 3082, 73
+74,"A portrait of a young girl in a sunlit garden, painted with the luminous quality of light and color that characterized Monet's impressionist portraits.", 2256, 74
+75,"A bridge over a pond covered in water lilies, depicted with the tranquility of light and reflection that defined Monet's later works.", 1689, 75
+76,"A countryside landscape with rolling hills and winding paths, painted with the vibrant colors and loose brushwork characteristic of Monet's rural scenes.", 2398, 76
+77,"A still life of fruits and flowers on a table, captured with the vibrant colors and fleeting light effects typical of Monet's still life paintings.", 2113, 77
+78,"A coastal scene with sailboats on the water, depicted with the shimmering reflections and vibrant colors characteristic of Monet's maritime works.", 2934, 78
+79,"A portrait of a woman in a garden, surrounded by blooming flowers and bathed in the soft light that defined Monet's outdoor compositions.", 2095, 79
+80,"A bridge over a river in the misty morning, painted with the atmospheric effects and subtle color variations typical of Monet's landscape studies.", 2365, 80
+81,"A garden path lined with blooming flowers and trees, portrayed with the vibrant colors and dappled light characteristic of Monet's garden scenes.", 2708, 81
+82,"A cityscape at dusk, with lights reflecting on the water and buildings, captured with the atmospheric effects and dynamic brushwork of Monet's urban scenes.", 3015, 82
+83,"A portrait of a young girl in a sunlit garden, painted with the luminous quality of light and color that characterized Monet's impressionist portraits.", 2198, 83
+84,"A bridge over a pond covered in water lilies, depicted with the tranquility of light and reflection that defined Monet's later works.", 1627, 84
+85,"A countryside landscape with rolling hills and winding paths, painted with the vibrant colors and loose brushwork characteristic of Monet's rural scenes.", 2336, 85
+86,"A still life of fruits and flowers on a table, captured with the vibrant colors and fleeting light effects typical of Monet's still life paintings.", 2052, 86
+87,"A coastal scene with sailboats on the water, depicted with the shimmering reflections and vibrant colors characteristic of Monet's maritime works.", 2873, 87
+88,"A portrait of a woman in a garden, surrounded by blooming flowers and bathed in the soft light that defined Monet's outdoor compositions.", 2036, 88
+89,"A bridge over a river in the misty morning, painted with the atmospheric effects and subtle color variations typical of Monet's landscape studies.", 2301, 89
+90,"A garden path lined with blooming flowers and trees, portrayed with the vibrant colors and dappled light characteristic of Monet's garden scenes.", 2647, 90
+91,"A cityscape at dusk, with lights reflecting on the water and buildings, captured with the atmospheric effects and dynamic brushwork of Monet's urban scenes.", 2954, 91
+92,"A portrait of a young girl in a sunlit garden, painted with the luminous quality of light and color that characterized Monet's impressionist portraits.", 2128, 92
+93,"A bridge over a pond covered in water lilies, depicted with the tranquility of light and reflection that defined Monet's later works.", 1558, 93
+94,"A countryside landscape with rolling hills and winding paths, painted with the vibrant colors and loose brushwork characteristic of Monet's rural scenes.", 2267, 94
+95,"A still life of fruits and flowers on a table, captured with the vibrant colors and fleeting light effects typical of Monet's still life paintings.", 1983, 95
+96,"A coastal scene with sailboats on the water, depicted with the shimmering reflections and vibrant colors characteristic of Monet's maritime works.", 2802, 96
+97,"A portrait of a woman in a garden, surrounded by blooming flowers and bathed in the soft light that defined Monet's outdoor compositions.", 1965, 97
+98,"A bridge over a river in the misty morning, painted with the atmospheric effects and subtle color variations typical of Monet's landscape studies.", 2238, 98
+99,"A garden path lined with blooming flowers and trees, portrayed with the vibrant colors and dappled light characteristic of Monet's garden scenes.", 2584, 99
+100,"A tranquil pond with water lilies, depicted with soft brushstrokes and a serene color palette reminiscent of Monet's peaceful landscapes.", 2375, 100
+101,"A garden scene with vibrant flowers and lush greenery, captured in Monet's signature style with loose brushwork and vibrant colors.", 2794, 101
+102,"A coastal landscape with rugged cliffs and crashing waves, painted with the energetic brushstrokes and vibrant hues typical of Monet's seascapes.", 3128, 102
+103,"A field of haystacks bathed in golden sunlight, rendered with the warm tones and atmospheric effects characteristic of Monet's rural scenes.", 2685, 103
+104,"A bustling marketplace on a sunny day, portrayed with lively brushwork and vibrant colors reminiscent of Monet's urban scenes.", 3256, 104
+105,"A portrait of a woman in a sunlit garden, painted with soft, ethereal brushstrokes that capture the fleeting nature of light and color.", 2897, 105
+106,"A bridge over a peaceful river, surrounded by lush foliage and painted with the serene beauty characteristic of Monet's landscapes.", 2419, 106
+107,"A quaint village nestled among rolling hills, depicted with the vibrant colors and loose brushwork typical of Monet's rural scenes.", 2973, 107
+108,"A still life of fruits and flowers, arranged in a vibrant composition and painted with the dynamic brushstrokes characteristic of Monet's still lifes.", 2156, 108
+109,"A riverbank scene with boats and reflections, portrayed with the shimmering effects of light and color that define Monet's river landscapes.", 2784, 109
+110,"A garden path lined with blooming flowers, painted with the vibrant colors and dappled light that evoke the beauty of Monet's garden scenes.", 2349, 110
+111,"A coastal village bathed in soft, diffused light, rendered with the atmospheric effects and gentle brushwork characteristic of Monet's coastal landscapes.", 3075, 111
+112,"A portrait of a young girl amidst a field of flowers, painted with the tender emotion and delicate brushwork that embody Monet's portraiture.", 2568, 112
+113,"A bridge over a tranquil pond, surrounded by water lilies and painted with the serene beauty characteristic of Monet's later works.", 1987, 113
+114,"A rural landscape with winding paths and colorful fields, depicted with the vibrant hues and loose brushwork typical of Monet's rural scenes.", 2734, 114
+115,"A still life of ripe fruits and vegetables, arranged in a harmonious composition and painted with the lively brushstrokes characteristic of Monet's still lifes.", 2289, 115
+116,"A coastal scene with sailboats gliding on calm waters, depicted with the serene beauty and shimmering reflections of Monet's maritime works.", 2925, 116
+117,"A portrait of a woman amidst a garden of blooming flowers, painted with the soft, dappled light and gentle brushwork that define Monet's outdoor compositions.", 2456, 117
+118,"A bridge over a misty river, shrouded in soft, diffused light and painted with the atmospheric effects characteristic of Monet's landscapes.", 2098, 118
+119,"A countryside landscape with a winding river and lush vegetation, depicted with the vibrant colors and dynamic brushwork typical of Monet's rural scenes.", 2673, 119
+120,"A still life of flowers in a vase, arranged with artistic flair and painted with the vibrant colors and delicate brushwork characteristic of Monet's still lifes.", 2215, 120
+121,"A tranquil pond with water lilies, depicted with soft brushstrokes and a serene color palette reminiscent of Monet's peaceful landscapes.", 2375, 121
+122,"A garden scene with vibrant flowers and lush greenery, captured in Monet's signature style with loose brushwork and vibrant colors.", 2794, 122
+123,"A coastal landscape with rugged cliffs and crashing waves, painted with the energetic brushstrokes and vibrant hues typical of Monet's seascapes.", 3128, 123
+124,"A field of haystacks bathed in golden sunlight, rendered with the warm tones and atmospheric effects characteristic of Monet's rural scenes.", 2685, 124
+125,"A bustling marketplace on a sunny day, portrayed with lively brushwork and vibrant colors reminiscent of Monet's urban scenes.", 3256, 125
+126,"A portrait of a woman in a sunlit garden, painted with soft, ethereal brushstrokes that capture the fleeting nature of light and color.", 2897, 126
+127,"A bridge over a peaceful river, surrounded by lush foliage and painted with the serene beauty characteristic of Monet's landscapes.", 2419, 127
+128,"A quaint village nestled among rolling hills, depicted with the vibrant colors and loose brushwork typical of Monet's rural scenes.", 2973, 128
+129,"A still life of fruits and flowers, arranged in a vibrant composition and painted with the dynamic brushstrokes characteristic of Monet's still lifes.", 2156, 129
+130,"A riverbank scene with boats and reflections, portrayed with the shimmering effects of light and color that define Monet's river landscapes.", 2784, 130
+131,"A garden path lined with blooming flowers, painted with the vibrant colors and dappled light that evoke the beauty of Monet's garden scenes.", 2349, 131
+132,"A coastal village bathed in soft, diffused light, rendered with the atmospheric effects and gentle brushwork characteristic of Monet's coastal landscapes.", 3075, 132
+133,"A portrait of a young girl amidst a field of flowers, painted with the tender emotion and delicate brushwork that embody Monet's portraiture.", 2568, 133
+134,"A bridge over a tranquil pond, surrounded by water lilies and painted with the serene beauty characteristic of Monet's later works.", 1987, 134
+135,"A rural landscape with winding paths and colorful fields, depicted with the vibrant hues and loose brushwork typical of Monet's rural scenes.", 2734, 135
+136,"A still life of ripe fruits and vegetables, arranged in a harmonious composition and painted with the lively brushstrokes characteristic of Monet's still lifes.", 2289, 136
+137,"A coastal scene with sailboats gliding on calm waters, depicted with the serene beauty and shimmering reflections of Monet's maritime works.", 2925, 137
+138,"A portrait of a woman amidst a garden of blooming flowers, painted with the soft, dappled light and gentle brushwork that define Monet's outdoor compositions.", 2456, 138
+139,"A bridge over a misty river, shrouded in soft, diffused light and painted with the atmospheric effects characteristic of Monet's landscapes.", 2098, 139
+140,"A countryside landscape with a winding river and lush vegetation, depicted with the vibrant colors and dynamic brushwork typical of Monet's rural scenes.", 2673, 140
+141,"A still life of flowers in a vase, arranged with artistic flair and painted with the vibrant colors and delicate brushwork characteristic of Monet's still lifes.", 2215, 141
+142,"A tranquil pond with water lilies, depicted with soft brushstrokes and a serene color palette reminiscent of Monet's peaceful landscapes.", 2375, 142
+143,"A garden scene with vibrant flowers and lush greenery, captured in Monet's signature style with loose brushwork and vibrant colors.", 2794, 143
+144,"A coastal landscape with rugged cliffs and crashing waves, painted with the energetic brushstrokes and vibrant hues typical of Monet's seascapes.", 3128, 144
+145,"A field of haystacks bathed in golden sunlight, rendered with the warm tones and atmospheric effects characteristic of Monet's rural scenes.", 2685, 145
+146,"A bustling marketplace on a sunny day, portrayed with lively brushwork and vibrant colors reminiscent of Monet's urban scenes.", 3256, 146
+147,"A portrait of a woman in a sunlit garden, painted with soft, ethereal brushstrokes that capture the fleeting nature of light and color.", 2897, 147
+148,"A bridge over a peaceful river, surrounded by lush foliage and painted with the serene beauty characteristic of Monet's landscapes.", 2419, 148
+149,"A quaint village nestled among rolling hills, depicted with the vibrant colors and loose brushwork typical of Monet's rural scenes.", 2973, 149
+150,"A still life of fruits and flowers, arranged in a vibrant composition and painted with the dynamic brushstrokes characteristic of Monet's still lifes.", 2156, 150
+151,"A peaceful pond with water lilies, bathed in soft morning light and painted with the delicate brushwork characteristic of Monet's landscapes.", 2536, 151
+152,"A garden bursting with vibrant blooms and dappled sunlight, captured with the impressionistic charm of Monet's outdoor scenes.", 2965, 152
+153,"A coastal inlet with boats gently bobbing on the water, depicted with the tranquil beauty and shimmering reflections of Monet's maritime works.", 3287, 153
+154,"A meadow filled with wildflowers swaying in the breeze, rendered with the vibrant colors and loose brushwork typical of Monet's rural landscapes.", 2846, 154
+155,"A bustling city street on a rainy day, portrayed with the blurred edges and soft light reminiscent of Monet's urban scenes.", 3412, 155
+156,"A portrait of a woman in a sun-drenched garden, painted with the warmth of sunlight and the softness of Monet's impressionistic style.", 3058, 156
+157,"A bridge over a tranquil stream, framed by overhanging willows and painted with the serene beauty characteristic of Monet's landscapes.", 2479, 157
+158,"A picturesque village nestled in a valley, depicted with the vibrant colors and lively brushwork typical of Monet's rural scenes.", 3034, 158
+159,"A still life of freshly picked fruit arranged on a table, painted with the richness of color and texture that define Monet's still lifes.", 2213, 159
+160,"A riverbank scene with boats moored along the shore, captured with the shimmering reflections and serene atmosphere of Monet's river landscapes.", 2845, 160
+161,"A pathway winding through a flower-filled garden, painted with the vibrant colors and dappled light characteristic of Monet's garden scenes.", 2407, 161
+162,"A coastal cliffside bathed in the golden light of sunset, rendered with the atmospheric effects and dynamic brushwork typical of Monet's seascapes.", 3132, 162
+163,"A portrait of a young girl amidst a field of poppies, painted with the tenderness and warmth that characterize Monet's portraiture.", 2629, 163
+164,"A bridge over a tranquil pond, surrounded by water lilies and painted with the serene beauty characteristic of Monet's later works.", 1976, 164
+165,"A rural landscape with rolling hills and a winding river, depicted with the vibrant colors and loose brushwork typical of Monet's pastoral scenes.", 2738, 165
+166,"A still life of ripe peaches and grapes on a sunlit table, captured with the lusciousness of color and texture characteristic of Monet's still lifes.", 2285, 166
+167,"A coastal scene with sailboats gliding on calm waters, depicted with the serene beauty and shimmering reflections of Monet's maritime works.", 2917, 167
+168,"A portrait of a woman amidst a garden of blooming flowers, painted with the soft, dappled light and gentle brushwork that define Monet's outdoor compositions.", 2454, 168
+169,"A bridge over a misty river, shrouded in soft, diffused light and painted with the atmospheric effects characteristic of Monet's landscapes.", 2095, 169
+170,"A countryside landscape with a winding river and lush vegetation, depicted with the vibrant colors and dynamic brushwork typical of Monet's rural scenes.", 2679, 170
+171,"A still life of flowers in a vase, arranged with artistic flair and painted with the vibrant colors and delicate brushwork characteristic of Monet's still lifes.", 2217, 171
+172,"A tranquil pond with water lilies, depicted with soft brushstrokes and a serene color palette reminiscent of Monet's peaceful landscapes.", 2385, 172
+173,"A garden scene with vibrant flowers and lush greenery, captured in Monet's signature style with loose brushwork and vibrant colors.", 2804, 173
+174,"A coastal landscape with rugged cliffs and crashing waves, painted with the energetic brushstrokes and vibrant hues typical of Monet's seascapes.", 3138, 174
+175,"A field of haystacks bathed in golden sunlight, rendered with the warm tones and atmospheric effects characteristic of Monet's rural scenes.", 2695, 175
+176,"A bustling marketplace on a sunny day, portrayed with lively brushwork and vibrant colors reminiscent of Monet's urban scenes.", 3266, 176
+177,"A portrait of a woman in a sunlit garden, painted with soft, ethereal brushstrokes that capture the fleeting nature of light and color.", 2907, 177
+178,"A bridge over a peaceful river, surrounded by lush foliage and painted with the serene beauty characteristic of Monet's landscapes.", 2429, 178
+179,"A quaint village nestled among rolling hills, depicted with the vibrant colors and loose brushwork typical of Monet's rural scenes.", 2983, 179
+180,"A still life of fruits and flowers, arranged in a vibrant composition and painted with the dynamic brushstrokes characteristic of Monet's still lifes.", 2166, 180
+181,"A tranquil pond with water lilies, bathed in soft morning light and painted with the delicate brushwork characteristic of Monet's landscapes.", 2536, 181
+182,"A garden bursting with vibrant blooms and dappled sunlight, captured with the impressionistic charm of Monet's outdoor scenes.", 2965, 182
+183,"A coastal inlet with boats gently bobbing on the water, depicted with the tranquil beauty and shimmering reflections of Monet's maritime works.", 3287, 183
+184,"A meadow filled with wildflowers swaying in the breeze, rendered with the vibrant colors and loose brushwork typical of Monet's rural landscapes.", 2846, 184
+185,"A bustling city street on a rainy day, portrayed with the blurred edges and soft light reminiscent of Monet's urban scenes.", 3412, 185
+186,"A portrait of a woman in a sun-drenched garden, painted with the warmth of sunlight and the softness of Monet's impressionistic style.", 3058, 186
+187,"A bridge over a tranquil stream, framed by overhanging willows and painted with the serene beauty characteristic of Monet's landscapes.", 2479, 187
+188,"A picturesque village nestled in a valley, depicted with the vibrant colors and lively brushwork typical of Monet's rural scenes.", 3034, 188
+189,"A still life of freshly picked fruit arranged on a table, painted with the richness of color and texture that define Monet's still lifes.", 2213, 189
+190,"A riverbank scene with boats moored along the shore, captured with the shimmering reflections and serene atmosphere of Monet's river landscapes.", 2845, 190
+191,"A pathway winding through a flower-filled garden, painted with the vibrant colors and dappled light characteristic of Monet's garden scenes.", 2407, 191
+192,"A coastal cliffside bathed in the golden light of sunset, rendered with the atmospheric effects and dynamic brushwork typical of Monet's seascapes.", 3132, 192
+193,"A portrait of a young girl amidst a field of poppies, painted with the tenderness and warmth that characterize Monet's portraiture.", 2629, 193
+194,"A bridge over a tranquil pond, surrounded by water lilies and painted with the serene beauty characteristic of Monet's later works.", 1976, 194
+195,"A rural landscape with rolling hills and a winding river, depicted with the vibrant colors and loose brushwork typical of Monet's pastoral scenes.", 2738, 195
+196,"A still life of ripe peaches and grapes on a sunlit table, captured with the lusciousness of color and texture characteristic of Monet's still lifes.", 2285, 196
+197,"A coastal scene with sailboats gliding on calm waters, depicted with the serene beauty and shimmering reflections of Monet's maritime works.", 2917, 197
+198,"A portrait of a woman amidst a garden of blooming flowers, painted with the soft, dappled light and gentle brushwork that define Monet's outdoor compositions.", 2454, 198
+199,"A bridge over a misty river, shrouded in soft, diffused light and painted with the atmospheric effects characteristic of Monet's landscapes.", 2095, 199
+
