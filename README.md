@@ -39,12 +39,13 @@ To generate images from one of the custom models use the following instructions:
 * It is to be noted that the current version requires the model to be in saved in `stable-diffusion/compvis-<based on hyperparameters>/diffusers-<based on hyperparameters>.pt`
 * `python eval-scripts/generate-images.py --model_name='compvis-word_VanGogh-method_xattn-sg_3-ng_1-iter_1000-lr_1e-05-em_0-et_1' --prompts_path 'data/art_prompts.csv' --save_path 'evaluation_folder' --num_samples 10`
 
-  ## Cite our paper
-  ```
-  @inproceedings{Han-2025-CCRT,
+
+## Cite our paper
+```
+@inproceedings{Han-2025-CCRT,
   title={Continuous concepts removal in text-to-image diffusion models},
   author={Han, Tingxu and Sun, Weisong and Hu, Yanrong and Fang, Chunrong and Zhang, Yonglong and Ma, Shiqing and Zheng, Tao and Chen, Zhenyu and Wang, Zhenting},
   booktitle={Advances in Neural Information Processing Systems: NeuralPS 2025},
   year={2025}
 }
-  ```
+```
